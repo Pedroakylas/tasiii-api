@@ -15,4 +15,4 @@ function validarChamado(titulo: string): boolean {
 }
 
 export default validarChamado;
-console.log(validarChamado("Erro de conexão com o banco MySQL"));
+console.log(validarChamado("teste"));
